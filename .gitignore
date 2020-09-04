@@ -23,3 +23,8 @@ erl_crash.dump
 documo_elixir-*.tar
 
 .elixir_ls
+
+.DS_Store
+
+private_notes.md
+test.pdf
